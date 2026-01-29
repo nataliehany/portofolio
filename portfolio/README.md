@@ -17,9 +17,9 @@ Explore my featured projects and work samples in the repository. Each project hi
 
 ## Contact & Links
 Feel free to reach out for collaboration opportunities or inquiries. You can contact me through:
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
+- Email: natalie.hany14@gmail.com
+
 
 ## License
 © 2026 All Rights Reserved.
+
